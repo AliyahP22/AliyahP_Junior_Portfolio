@@ -38,3 +38,10 @@ h2{
   width:74%;
   height: 1360px;
 }
+ul{
+   list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:DEB8FA;
+  }
