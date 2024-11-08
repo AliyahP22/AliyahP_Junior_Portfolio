@@ -13,7 +13,9 @@ h2{
 	font-weight:200;
 	font-family: "Langar", cursive;
 }
-	
+body{
+	background-color: background-image:linear-gradient(to bottom right, violet,orchid,lavenderblush);
+}
 .banner{
   margin:30px;
   padding:20px;
