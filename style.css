@@ -19,14 +19,16 @@ h3{
 body{
 	background-image: linear-gradient(to bottom right, mediumorchid,royalblue,cornflowerblue);
 }
-.banner{
-  margin:30px;
-  padding:20px;
-  height:200px;
-  width: 75px;
-  border: 10px solid #ffffff;
- box-shadow: 5px 2px 5px 5px #ddfddd;
- font-size: 0.7em;
+  .banner{
+	background-color: rgba(159,166,104,0.4);
+	margin: 15px;
+	padding: 10px;
+	border: 3px solid #a3c1ad;
+	box-shadow: 1px 3px 30px 1px #b7cc9d;
+	outline: 10px 10px #49796b groove;
+	text-transform: capitalize;
+	text-shadow: 1px 1px #317873 ;
+	height: 200px;
 }
 .nav{
    display: flex; justify-content: center; align-items: center;
