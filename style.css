@@ -26,9 +26,19 @@ body{
  	 border: 10px solid #ffffff;
 	 box-shadow: 5px 2px 5px 5px #ddfddd;
 }
-.nav{
-   display: flex; justify-content: center; align-items: center;
+.menu{
+	position: absolute;
+	top: 50px;
+	left: 70px;
+	color:#5f9ea0;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 2em;
+	text-shadow: 2px 2px #317873;
+	font-style: oblique;
+	width: 100px;
+	overflow: hidden;
 }
+
 #logo{
 	width:75px;
 	top:50px;
@@ -36,22 +46,7 @@ body{
 	position: absolute;
 }
 	
-ul{
-   list-style-type:none;
-    margin:0;
-    padding:0;
-    overflow:hidden;
-    background-color:DEB8FA;
-  }
-li{
-  float:left;
-}
-li a, .dropBtn{
-  display:inline-block;
-  color:CornflowerBlue;
-  text-align:center;
-  padding:12px 14px;
-}
+
 .container{
 	border:3px,black;
 	position: relative;
